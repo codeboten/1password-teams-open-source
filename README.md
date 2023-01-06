@@ -1494,10 +1494,10 @@ https://github.com/The-Revolution-Network/BrightChain
 An observability framework for cloud-native software.
 https://opentelemetry.io/
 
-### OpenFeature
+### 
 
 An open standard for feature flag management.
-https:/openfeature.dev/
+https://openfeature.dev/
 
 ### Botanit(ism)
 
